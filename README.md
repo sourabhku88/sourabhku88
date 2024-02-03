@@ -25,7 +25,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourabhprajapati" height="100" width="70" />
 </a>
   <span> &nbsp &nbsp‎‎‎‎‎ </span>
-<a href="https://www.leetcode.com/sourbh12345" target="blank">
+<a href="https://www.leetcode.com/sourabh_12345" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourbh12345" height="70" width="70" />
 </a>
 </p>
