@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Rigbot<br><br>🌱 I’m currently learning Postgresql, Docker, Bookshelf.js, Knex.js<br><br>👯 I collaborated on CRM,Procurment,StrongBuild,Accounts<br><br>📫 How to reach me sourabhkumar811307@gmail.com
+🔭 I’m currently working in Gammastack<br><br>🌱 I’m currently learning Postgresql, Docker, Bookshelf.js, Knex.js<br><br>👯 I collaborated on CRM,Procurment,StrongBuild,Accounts<br><br>📫 How to reach me sourabhkumar811307@gmail.com
 
 
 ## 🌐 Socials:
