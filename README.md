@@ -241,16 +241,6 @@ Published npm package that generates production-ready Node.js backend boilerplat
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sourabhku88&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 📊 Profile Summary
 
 <p align="center">
@@ -285,13 +275,8 @@ Published npm package that generates production-ready Node.js backend boilerplat
 ---
 
 # 🐍 Contribution Snake
-
-> Create the GitHub Action before using this image.
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/sourabhku88/sourabhku88/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
