@@ -1,21 +1,357 @@
-# 💫 About Me:
-🔭 I’m currently working in Gammastack<br><br>🌱 I’m currently learning Postgresql, Docker, Bookshelf.js, Knex.js<br><br>👯 I collaborated on CRM,Procurment,StrongBuild,Accounts<br><br>📫 How to reach me sourabhkumar811307@gmail.com
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sourabh+Kumar;Full+Stack+Engineer;Node.js+%7C+React+%7C+TypeScript+%7C+AWS;Building+Scalable+Backend+Systems;Always+Learning+Always+Building" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://leetcode.com/u/sourabh_12345/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_devsourabh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourabhprajapati) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel)](https://sourabhku.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourabh_Kumar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sourabhprajapati)
+[![GitHub](https://img.shields.io/badge/GitHub-sourabhku88-black?style=for-the-badge&logo=github)](https://github.com/sourabhku88)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:sourabhkumar811307@gmail.com)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sourabhku88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sourabhku88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhku88&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=sourabhku88&style=for-the-badge&color=blue"/>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sourabhku88&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+```ts
+const sourabh = {
+
+    role: "Full Stack Engineer",
+
+    experience: "3+ Years",
+
+    location: "Bangalore, India",
+
+    company: "Gammastack",
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Koa",
+        "FastAPI"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "TypeScript"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+    ],
+
+    cloud: [
+        "AWS",
+        "Docker",
+        "GitHub Actions"
+    ],
+
+    architecture: [
+        "Microservices",
+        "REST APIs",
+        "WebSockets",
+        "Distributed Systems"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "Kubernetes",
+        "Event Driven Architecture"
+    ],
+
+    hobbies: [
+        "Building Products",
+        "Open Source",
+        "Learning New Tech"
+    ]
+}
+```
+
+---
+
+## 🚀 Professional Summary
+
+💻 Full Stack Engineer with **3+ years** of experience building scalable web applications.
+
+⚡ Experienced in:
+
+- Real-time Sportsbook & Casino Systems
+- Payment Gateway Integrations
+- Distributed Microservices
+- High Performance REST APIs
+- Redis Caching
+- PostgreSQL Optimization
+- AWS Cloud Infrastructure
+- Docker Deployment
+- Authentication & Authorization
+
+---
+
+# 🏆 Career Highlights
+
+🏅 Built real-time sportsbook systems integrating **OddMatrix** and **Betradar**
+
+🏅 Developed concurrent betting workflows using **microservices**
+
+🏅 Reduced payment failures by **30%** using idempotent transaction handling
+
+🏅 Reduced API latency by **25%** through Redis caching & PostgreSQL optimization
+
+🏅 Built centralized monitoring with AWS CloudWatch reducing debugging time
+
+🏅 Published a Node.js CLI package on npm
+
+🏅 Built a Vercel-like deployment platform using Docker & AWS
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,yarn"/>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase"/>
+
+</p>
+
+---
+
+## DevOps & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,vercel,netlify"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎯 Sportsbook Platform
+
+- OddMatrix Integration
+- Betradar Integration
+- Live Betting
+- Wallet Service
+- Transaction Engine
+- Microservices
+
+---
+
+## 💳 Payment Infrastructure
+
+- Stripe
+- Razorpay
+- Idempotent Payments
+- Retry Mechanism
+- Transaction Logs
+
+---
+
+## ⚡ Deployment Platform
+
+- Docker
+- AWS S3
+- Reverse Proxy
+- Auto Deployment
+- Git Clone
+- Build Pipeline
+
+---
+
+## 📦 Node.js CLI
+
+Published npm package that generates production-ready Node.js backend boilerplates with TypeScript support.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabhku88&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=sourabhku88&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhku88&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhku88&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sourabhku88&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabhku88&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourabhku88&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourabhku88&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Current Focus
+
+- High Performance APIs
+- Distributed Systems
+- Kubernetes
+- Event Driven Architecture
+- AI Powered Products
+- System Design
+
+---
+
+# 🐍 Contribution Snake
+
+> Create the GitHub Action before using this image.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sourabhku88/sourabhku88/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sourabhprajapati">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sourabhkumar811307@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sourabhku88">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sourabhku.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Favorite Quote
+
+<p align="center">
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+</p>
+
+---
+
+# ⭐ Support
+
+<p align="center">
+
+If you find my projects useful, consider giving them a ⭐
+
+</p>
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sourabhku88.sourabhku88"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=120&section=footer"/>
+
+</div>
