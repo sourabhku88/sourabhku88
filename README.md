@@ -120,7 +120,7 @@ const sourabh = {
 
 </p>
 
----
+
 
 ## Frontend
 
@@ -130,7 +130,7 @@ const sourabh = {
 
 </p>
 
----
+
 
 ## Backend
 
@@ -140,7 +140,7 @@ const sourabh = {
 
 </p>
 
----
+
 
 ## Database
 
@@ -150,7 +150,7 @@ const sourabh = {
 
 </p>
 
----
+
 
 ## DevOps & Cloud
 
@@ -160,7 +160,20 @@ const sourabh = {
 
 </p>
 
----
+
+
+## 🤖 AI & LLM
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI_ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agent_Development-00C853?style=for-the-badge&logo=robot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_SDKs-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/>
+
+</p>
+
 
 ## Tools
 
@@ -170,7 +183,7 @@ const sourabh = {
 
 </p>
 
----
+
 
 # 🚀 Featured Projects
 
